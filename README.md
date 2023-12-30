@@ -1,2 +1,6 @@
 # Miscellaneous-Magiclysm-Expansions-V5
-The last version of the Miscellaneous Magiclysm Expansions mod that was uploaded, to my knowledge anyway.
+The last version of the Miscellaneous Magiclysm Expansions mod that was uploaded, to my knowledge anyway, updated to (mostly) work with Cataclysm BN. The original is at https://github.com/MNG-cataclysm/Cataclysmic-Modifications, so go ahead and star that one as thanks for this thing existing. There's also another version in Kenan's awesome Modpack for Catclysm BN at https://github.com/Kenan2000/BrightNights-Structured-Kenan-Modpack, so star that too as Kenan is awesome and does a lot of work.
+
+There are some differences between the versions in the ModPack VS the one I've got here. I'll try to reconcile them later so it's up to date, but the big thing is there's an item class called Spell Runes. Take a rune of a certain magic school, and with a specific skill level of Spellcraft you'll make a one-shot item that casts a spell of that school for you! These tend to cast faster than the actual spell, so they're handy for exploration and fighting or for having some utility spells on hand in a pinch. It's also a bit broken in that you can get spells you don't have access to via books or the like, so you can lob a Cone of Cold without having the appropriate tome for instance.
+
+I'll update this Readme later assuming I have the spoons to get the fixes/updates completed.
